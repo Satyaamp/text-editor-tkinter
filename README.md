@@ -10,8 +10,6 @@ A simple text editor built using Tkinter in Python. This application allows user
 - **💾 Save File**: Save the current text document.
 - **✂️ Basic Editing Functions**: Cut, copy, and paste text.
 - **🌟 Simple, Interactive User Interface**: Clean and user-friendly design.
-- **📊 Status Bar**: Displays line and column numbers.
-
 ---
 
 ## 🛠️ **Tech Stack**
